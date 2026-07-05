@@ -1,69 +1,97 @@
 # Task 1 - Customer Behavior Analysis
-📌 Project Overview
-This project was completed as part of the InternSpark Data Analytics Internship. The objective is to analyze customer purchasing behavior using an e-commerce dataset to identify customer segments, purchasing patterns, and churn risks. The project includes data cleaning, feature engineering, RFM segmentation, data visualization, and business recommendations.
+
+## 📌 Project Overview
+
+This project was completed as part of the **InternSpark Data Analytics Internship**. The objective is to analyze customer purchasing behavior using an e-commerce dataset and identify customer segments, purchase patterns, and churn risks through data analysis techniques.
+
 ---
-🎯 Objective
-Analyze customer transactions and purchasing behavior.
-Perform data cleaning and feature engineering.
-Segment customers using RFM (Recency, Frequency, Monetary) analysis.
-Visualize purchase patterns and churn trends.
-Provide actionable business recommendations for improving customer engagement.
+
+## 🎯 Objective
+
+- Analyze customer transaction data.
+- Perform data cleaning and feature engineering.
+- Segment customers using RFM (Recency, Frequency, Monetary) analysis.
+- Analyze purchase patterns and customer churn.
+- Provide business recommendations for improving customer engagement.
+
 ---
-🛠️ Tools & Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
 ---
-📂 Dataset
-Dataset: Customer Behavior Analysis
----
-Source: Kaggle
+
+## 📂 Dataset
+
+**Dataset:** Customer Behavior Analysis
+
+**Source:** Kaggle
 
 https://www.kaggle.com/datasets/bhanupratapbiswas/customer-behavior-analysis
----
-📊 Project Workflow
-Data Collection
-Data Cleaning
-Feature Engineering
-Exploratory Data Analysis (EDA)
-RFM Customer Segmentation
-Data Visualization
-Customer Churn Analysis
-Business Recommendations
----
-📈 Visualizations
-The project includes visualizations such as:
 
-Product Category Distribution
-Monthly Purchase Trend
-Payment Method Distribution
-Customer Segment Distribution
-Customer Churn Analysis
-Revenue by Product Category
 ---
-🔍 Key Findings
-Customer purchasing behavior was analyzed using transaction data.
-Customers were segmented into Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost Customers.
-High-performing product categories contributed significantly to revenue.
-Churn analysis identified customers requiring retention strategies.
-Monthly purchase trends highlighted seasonal buying patterns.
+
+## 📊 Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Feature Engineering
+4. Exploratory Data Analysis (EDA)
+5. RFM Customer Segmentation
+6. Data Visualization
+7. Customer Churn Analysis
+8. Business Recommendations
+
 ---
-💡 Business Recommendations
-Introduce loyalty reward programs for valuable customers.
-Target inactive customers with personalized campaigns.
-Promote top-selling product categories through marketing.
-Implement churn prevention strategies using customer insights.
-Optimize seasonal marketing campaigns based on purchase trends.
+
+## 📈 Visualizations
+
+The project includes the following visualizations:
+
+- Product Category Distribution
+- Monthly Purchase Trend
+- Payment Method Distribution
+- Customer Segment Distribution
+- Customer Churn Distribution
+- Revenue by Product Category
+
 ---
-📁 Repository Contents
-Task1_Customer_Behavior_Analysis.ipynb
-Task1_Report.pdf
-README.md
+
+## 🔍 Key Findings
+
+- Customer data was cleaned and prepared for analysis.
+- Customers were segmented into Champions, Loyal Customers, Potential Loyalists, At Risk, and Lost Customers using RFM analysis.
+- Purchase patterns were analyzed across product categories and payment methods.
+- Churn analysis highlighted customers who require retention strategies.
+- Seasonal purchasing trends were identified to support marketing decisions.
+
 ---
-👩‍💻 Author
+
+## 💡 Recommendations
+
+- Introduce loyalty reward programs for high-value customers.
+- Re-engage inactive customers with personalized offers.
+- Promote high-performing product categories through targeted marketing.
+- Implement churn reduction strategies using customer insights.
+- Plan marketing campaigns based on seasonal purchasing trends.
+
+---
+
+## 📁 Files Included
+
+- `Task1_Customer_Behavior_Analysis.ipynb` – Jupyter Notebook containing the complete analysis and code.
+- `Task1_Report.pdf` – Summary report including findings, visualizations, and recommendations.
+
+---
+
+## 👩‍💻 Author
+
 Yamini
-InternSpark Data Analytics Internship
 
+InternSpark Data Analytics Internship
